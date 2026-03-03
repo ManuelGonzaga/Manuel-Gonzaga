@@ -4,12 +4,12 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-Sou um desenvolvedor em formação, começando pelo front-end e agora expandindo meus conhecimentos para o back-end. Buscando oportunidades para aplicar meus conhecimentos em projetos reais e começar a ganhar dinheiro como programador.
+Sou um desenvolvedor ainda em formação, comecei pelo front-end e agora estou a abranger meus conhecimentos para o back-end. Procurando oportunidades para aplicar meus o conhecimentos em projetos reais e começar mais experiência.
 
-- 🌱 **Atualmente aprendendo:** Back-end (Node.js, Bancos de Dados, APIs)
-- 💼 **Em busca:** Primeiras oportunidades como freelancer
-- 🎯 **Objetivo:** Tornar um desenvolvedor full stack completo
-- ⚡ **Curiosidade:** Comecei com front-end e agora estou a descobrir o mundo back-end
+-  **Atualmente aprendendo:** Back-end (Node.js, Bancos de Dados, APIs)
+-  **Em busca de:** Primeiras oportunidades como freelancer
+-  **Objetivo:** Tornar um desenvolvedor full stack completo
+-  **Curiosidade:** Comecei com front-end e agora estou a descobrir o mundo back-end
 
 ---
 
@@ -23,7 +23,7 @@ Sou um desenvolvedor em formação, começando pelo front-end e agora expandindo
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
-  <!-- Back-end (em aprendizado) -->
+  <!-- Back-end (em aprendizagem) -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -76,25 +76,26 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 ---
 
-### 💰 Quer contratar os serviços?
+### Quer contratar os serviços?
 
 Estou disponível para desenvolver:
 - ✅ Landing pages profissionais
 - ✅ Sites institucionais
 - ✅ Pequenos projetos em React
 - ✅ Correções e melhorias em sites existentes
+- ✅ Figma
 
-**Entre em contato** e vamos conversar sobre seu projeto!
+**Entre em contato** e vamos conversar sobre o seu projeto!
 
 ---
 
 ### ⚡ Curiosidades sobre mim
 
-- 🎮 Gosto de jogar nas horas vagas
-- 📚 Sempre lendo sobre novas tecnologias
-- ☕ Viciado em café enquanto programo
-- 🌍 Sonho em trabalhar remoto para empresas internacionais
-- 🔄 Em transição de front-end para full stack
+- Gosto de jogar nas horas vagas e fazer musica
+-  Sempre lendo e aprendendo sobre novas tecnologias
+-  Viciado em café enquanto programo
+-  Sonho em trabalhar remoto para empresas internacionais
+-  Em transição de front-end para full stack
 
 ---
 
