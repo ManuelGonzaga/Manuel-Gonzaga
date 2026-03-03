@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-Sou um desenvolvedor ainda em formação, comecei pelo front-end e agora estou a abranger meus conhecimentos para o back-end. Procurando oportunidades para aplicar meus o conhecimentos em projetos reais e começar mais experiência.
+Sou um desenvolvedor ainda em formação, comecei pelo front-end e agora estou a abranger meus conhecimentos em back-end. Procurando oportunidades para aplicar meus o conhecimentos em projetos reais e começar mais experiência.
 
 -  **Atualmente aprendendo:** Back-end (Node.js, Bancos de Dados, APIs)
 -  **Em busca de:** Primeiras oportunidades como freelancer
