@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Manuel Gonzaga!
+# Olá, eu sou Manuel Gonzaga!
 
-### 🚀 Desenvolvedor Full Stack em Formação
+###  Desenvolvedor Full Stack em Formação
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
