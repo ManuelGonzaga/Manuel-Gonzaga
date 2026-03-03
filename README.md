@@ -44,6 +44,7 @@ Sou um desenvolvedor em formação, começando pelo front-end e agora expandindo
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=manuelgonzaga&theme=flat&no-frame=true&margin-w=15" />
 </div>
+
 ### 🚀 Projetos em Destaque
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
