@@ -30,7 +30,6 @@ Sou um desenvolvedor em formação, começando pelo front-end e agora expandindo
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   
   <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
@@ -42,8 +41,7 @@ Sou um desenvolvedor em formação, começando pelo front-end e agora expandindo
 <div align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelgonzaga&theme=default" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=manuelgonzaga&theme=flat&no-frame=true&margin-w=15"/>
-</div>
+  
 
 ### 🚀 Projetos em Destaque
 
