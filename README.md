@@ -43,7 +43,6 @@ Sou um desenvolvedor em formação, começando pelo front-end e agora expandindo
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=manuelgonzaga&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgonzaga&layout=compact&langs_count=7&theme=default"/>
 </div>
----
 
 ### 🚀 Projetos em Destaque
 
