@@ -45,15 +45,14 @@ Sou um desenvolvedor ainda em formação, comecei pelo front-end e agora estou a
 
 ### 🚀 Projetos em Destaque
 
+
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
-| **Em breve** | 
-| **Em breve** | 
-| **Em breve** | 
-
-
+| **Construtora Site** | Site institucional para construtora, com páginas de serviços, obras, equipa, contacto e avisos legais | React, CSS Modules | [Ver código](https://github.com/manuelgonzaga/construtora-site) • [Ver site](https://construtora-site.vercel.app) |
+| **Em breve** | Novo projeto em desenvolvimento | - | - |
+| **Em breve** | Novo projeto em desenvolvimento | - | - |
 
 ---
 
